@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Web Devloper Intern",
+    "organisation": "Prodogy Infotech",
+    "startDate": "1 Mar, 2024",
+    "endDate": "31 Mar,2024",
+    "experiences": ["Html", "CSS","javaScript","Basics of React","Api Fetching"],
+    "imageSrc": "history/prodigy.jpg"
+  },
+  {
+    "role": "Web Devloper Intern",
+    "organisation": "Codsoft",
+    "startDate": "1 Oct, 2023",
+    "endDate": "31 Oct,2023",
+    "experiences": ["Html", "CSS","javaScript"],
+    "imageSrc": "history/codsoft.jpg"
+  }
+]

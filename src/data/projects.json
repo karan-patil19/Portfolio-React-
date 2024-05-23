@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Qr Code Generator",
+    "imageSrc": "projects/qr_code.png",
+    "description": "This is a project made to learn  basics of React ,HTMl,CSS,Java Script.",
+    "skills": ["React", "Html", "CSS", "JavaScript"],
+    "demo": "https://qr-code-generator-react-blue.vercel.app/",
+    "source": "https://github.com/karan-patil19/QrCode_Generator-React-.git"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weather.png",
+    "description": "This is a project made to learn the basics of HTML,CSS,Java Script by building an app.",
+    "skills": ["Html", "CSS", "JavaScript"],
+    "demo": "https://karan-patil19.github.io/PRODIGY_WD_05/",
+    "source": "https://github.com/karan-patil19/PRODIGY_WD_05"
+  },
+  
+  {
+    "title": "My Recipe App",
+    "imageSrc": "projects/Recipe .png",
+    "description": "This is a project made to learn the basics of HTML,CSS,Java Script and API Fetching by building an app",
+    "skills": ["Html", "CSS", "JavaScript"],
+    "demo": "https://karan-patil19.github.io/My-Recipe-App/",
+    "source": "https://github.com/karan-patil19/My-Recipe-App.git"
+  }
+]
